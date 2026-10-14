@@ -53,6 +53,7 @@ The first time you use it, sign in to PostEverywhere to connect. You need a Post
 - **Cursor:** [posteverywhere/cursor-plugin](https://github.com/posteverywhere/cursor-plugin)
 - **OpenAI Codex:** [posteverywhere/codex-plugin](https://github.com/posteverywhere/codex-plugin)
 - **Gemini CLI:** [posteverywhere/gemini-cli-extension](https://github.com/posteverywhere/gemini-cli-extension)
+- **GitHub Copilot and VS Code:** [posteverywhere/copilot-plugin](https://github.com/posteverywhere/copilot-plugin)
 - **MCP server (any MCP client):** [posteverywhere/mcp](https://github.com/posteverywhere/mcp)
 - **CLI:** [posteverywhere/cli](https://github.com/posteverywhere/cli)
 - **Node.js SDK:** [posteverywhere/sdk](https://github.com/posteverywhere/sdk)
