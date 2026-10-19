@@ -1,6 +1,6 @@
 # PostEverywhere for Grok: Social Media Scheduler Plugin
 
-[PostEverywhere](https://posteverywhere.ai) is a [social media scheduler](https://posteverywhere.ai/social-media-scheduler). This Grok plugin lets you write, schedule and publish social media posts to [Instagram](https://posteverywhere.ai/instagram-scheduler), [TikTok](https://posteverywhere.ai/tiktok-scheduler), [YouTube](https://posteverywhere.ai/youtube-scheduler), [LinkedIn](https://posteverywhere.ai/linkedin-scheduler), [Facebook](https://posteverywhere.ai/facebook-scheduler), [X](https://posteverywhere.ai/x-scheduler), [Threads](https://posteverywhere.ai/threads-scheduler), [Pinterest](https://posteverywhere.ai/pinterest-scheduler), [Bluesky](https://posteverywhere.ai/bluesky-scheduler), Telegram, Discord and WordPress from Grok, plan a [content calendar](https://posteverywhere.ai/content-calendar), cross-post video and see how every post performed.
+[PostEverywhere](https://posteverywhere.ai) is a [social media scheduler](https://posteverywhere.ai/social-media-scheduler). This Grok plugin lets you write, schedule and publish social media posts to [Instagram](https://posteverywhere.ai/instagram), [TikTok](https://posteverywhere.ai/tiktok), [YouTube](https://posteverywhere.ai/youtube), [LinkedIn](https://posteverywhere.ai/linkedin), [Facebook](https://posteverywhere.ai/facebook), [X](https://posteverywhere.ai/x), [Threads](https://posteverywhere.ai/threads), [Pinterest](https://posteverywhere.ai/pinterest), [Bluesky](https://posteverywhere.ai/bluesky), Telegram, Discord, WordPress and [Google Business Profile](https://posteverywhere.ai/google-business-profile) from Grok, plan a [content calendar](https://posteverywhere.ai/content-calendar), cross-post video and see how every post performed.
 
 No API key and nothing to install: it connects to the hosted PostEverywhere MCP server, and you sign in once in your browser.
 
@@ -45,7 +45,7 @@ The first time you use it, sign in to PostEverywhere to connect. You need a Post
 
 ## Supported networks
 
-[Instagram](https://posteverywhere.ai/instagram-scheduler), [TikTok](https://posteverywhere.ai/tiktok-scheduler), [YouTube](https://posteverywhere.ai/youtube-scheduler), [LinkedIn](https://posteverywhere.ai/linkedin-scheduler), [Facebook](https://posteverywhere.ai/facebook-scheduler), [X](https://posteverywhere.ai/x-scheduler), [Threads](https://posteverywhere.ai/threads-scheduler), [Pinterest](https://posteverywhere.ai/pinterest-scheduler), [Bluesky](https://posteverywhere.ai/bluesky-scheduler), Telegram, Discord and WordPress. See all [features](https://posteverywhere.ai/features) and [integrations](https://posteverywhere.ai/integrations).
+[Instagram](https://posteverywhere.ai/instagram), [TikTok](https://posteverywhere.ai/tiktok), [YouTube](https://posteverywhere.ai/youtube), [LinkedIn](https://posteverywhere.ai/linkedin), [Facebook](https://posteverywhere.ai/facebook), [X](https://posteverywhere.ai/x), [Threads](https://posteverywhere.ai/threads), [Pinterest](https://posteverywhere.ai/pinterest), [Bluesky](https://posteverywhere.ai/bluesky), Telegram, Discord, WordPress and [Google Business Profile](https://posteverywhere.ai/google-business-profile). See all [features](https://posteverywhere.ai/features) and [integrations](https://posteverywhere.ai/integrations).
 
 ## Other ways to use PostEverywhere with AI
 
